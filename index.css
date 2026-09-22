@@ -1,0 +1,18 @@
+.cabecalho{
+    background-color: aqua;
+    color: orange;
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.secao{
+    background-color: aqua;
+    color: orange;
+    margin: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.rodape{
+    background-color: aqua;
+    color: orange;
+    margin: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+}
